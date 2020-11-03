@@ -1,0 +1,33 @@
+html, body {
+  
+}
+
+img {
+  float: left;
+  padding-right: 25px;
+  height: 250px;
+  width: 250px;
+}
+p, p1{
+  line-height: 25px;
+  width: 75%;
+}
+h1 {
+  color:darkgreen;
+}
+
+h1,h2 {
+  font-family: georgia;
+  text-align: center;
+}
+
+a {
+  text-decoration-line: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+p1{
+  text-transform: uppercase;
+   }
